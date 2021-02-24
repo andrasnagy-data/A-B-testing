@@ -9,4 +9,7 @@ The contingency table is shown below:
 
 ![image](contingency_table.png)
 
-The data was analyzed using a Bayesian and a Frequentist approach. As it was the case, that only 2 variants were tested, I also used a proportion Z-test. 
+The data was analyzed using a Bayesian as well as a Frequentist approach.
+- Bayesian result: email B outperforms email A 93% of the time.
+- Frequentist chi-square test: the difference between the variants are not statistically significant
+- Frequantist proportion Z-test: same result as chi-square test. As only 2 variants were tested, I could use a proportion Z-test, however, if there are more than 2 variants to be tested, proportion Z-test is not a feasable approach.
