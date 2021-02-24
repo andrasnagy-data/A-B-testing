@@ -1,9 +1,10 @@
-## Statistical Test 
+## A/B Test 
 
-### Scenario: Trying to decide between 2 slightly different versions of emails (A and B)
+### Scenario: Decision between 2 different versions of email (A and B) - Maximizing click-through rate
 
-**Metric of choice: click-through-rate** 
-Conducted an experiment whit a sample size of 1000. The 2 websites were shown and the click-through rate was measered.
+**Metric of choice: click-through-rate**
+
+Conducted an experiment with a sample size of 1000. The 2 websites were shown and the click-through rate was measured.
 The contingency table is shown below:
 
 ![image](contingency_table.png)
